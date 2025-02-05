@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.wipro&apos; to &apos;EmployeeManagement/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;RajatRaj&apos;&#x0D;&#x0A;- Destination element: &apos;EmployeeManagement/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;RajatRaj/src/main/java/com.wipro&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=EmployeeManagement/src\/main\/java" element1="/src\/main\/java&lt;com.wipro" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1738584736717" version="1.0"/>
+</session>

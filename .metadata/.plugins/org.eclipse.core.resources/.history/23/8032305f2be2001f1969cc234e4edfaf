@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Employee Database</h1>
+<a href="addEmployee.jsp">Add employee</a>
+<a href="viewEmployee.jsp"></a>
+</body>
+</html>

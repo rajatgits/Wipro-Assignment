@@ -1,0 +1,20 @@
+package com.wipro.spring_autodiscovery;
+
+public class Student {
+	private Integer id;
+	private String student;
+	private Address address;
+	public Student(Integer id, String student, Address address) {
+		super();
+		this.id = id;
+		this.student = student;
+		this.address = address;
+	}
+	public Student() {
+		
+	}
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", student=" + student + ", address=" + address + "]";
+	}
+}
