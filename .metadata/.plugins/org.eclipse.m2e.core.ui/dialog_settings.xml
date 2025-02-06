@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Rajat Raj\myworkspace\spring_javaBased\src\main\java\com\wipro\spring_javaBased\App.java"/>
+			<item value="C:\Users\Rajat Raj\myworkspace\spring-autodiscovery\src\main\java\com\wipro\spring_autodiscovery\App.java"/>
+			<item value="C:\Users\Rajat Raj\myworkspace\spring_maven3\src\main\java\com\wipro\spring_maven3\App.java"/>
 			<item value="C:\Users\Rajat Raj\myworkspace\spring_maven2\src\main\java\com\wipro\spring_maven2\App.java"/>
 			<item value="C:\Users\Rajat Raj\myworkspace\spring-maven1\src\main\java\applicationcontext.xml"/>
 			<item value="C:\Users\Rajat Raj\myworkspace\springcore"/>
@@ -29,6 +32,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.wipro.springmvc"/>
+			<item value="com.wipro.spring_mavenwebapp"/>
+			<item value="com.wipro.spring_javaBased"/>
+			<item value="com.wipro.spring_autodiscovery"/>
 			<item value="com.wipro.spring_maven3"/>
 			<item value="com.wipro.spring_maven2"/>
 			<item value="com.wipro.spring_maven1"/>
@@ -37,6 +44,10 @@
 			<item value="com.wipro"/>
 		</list>
 		<list key="artifactId">
+			<item value="springmvc"/>
+			<item value="spring_mavenwebapp"/>
+			<item value="spring_javaBased"/>
+			<item value="spring-autodiscovery"/>
 			<item value="spring_maven3"/>
 			<item value="spring_maven2"/>
 			<item value="spring-maven1"/>
